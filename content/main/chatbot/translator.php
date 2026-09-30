@@ -94,8 +94,6 @@ $user = $result->fetch_assoc();
             document.querySelector('.dropdown-menu').classList.toggle('active');
         });
 
-        const API = 'AIzaSyDgvsWWTws0f3Xg35N5Iz0g5N6bIX2-5fs';
-
         const languageMap = {
             EN: 'English',
             FR: 'French',
@@ -130,7 +128,7 @@ $user = $result->fetch_assoc();
 
             try {
                 const res = await fetch(
-                    `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API}`,
+                    'gemini_proxy.php',
                     {
                         method: 'POST',
                         headers: {

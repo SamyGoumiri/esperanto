@@ -74,7 +74,7 @@ $user = $result->fetch_assoc();
                     <p>Accurately translates your phrases into multiple languages.</p>
                 </a>
 
-                <a class="card" href="Conversation.php">
+                <a class="card" href="conversation.php">
                     <h3>Conversation Partner</h3>
                     <p>Chat with an AI to practice your language skills.</p>
                 </a>
