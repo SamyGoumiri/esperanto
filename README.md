@@ -13,18 +13,6 @@ Projet réalisé en équipe lors du **hackathon du club Devshroom de l'ESST** (�
 
 C'est un prototype de hackathon : il illustre la conception d'un produit complet (authentification, contenu pédagogique, gamification, IA) mais n'est pas destiné à la production en l'état. Voir [Limites connues](#limites-connues).
 
-## Aperçu
-
-| Tableau de bord | Choix d'une activité |
-|---|---|
-| ![Tableau de bord](docs/screenshots/01-dashboard.png) | ![Langue](docs/screenshots/02-langue.png) |
-
-| Unités de cours | Mini-jeu Word Master |
-|---|---|
-| ![Unités](docs/screenshots/03-unites.png) | ![Word Master](docs/screenshots/04-word-master.png) |
-
-![Tuteur IA](docs/screenshots/05-tuteur-ia.png)
-
 ## Fonctionnalités
 
 - **Authentification** : inscription, connexion, déconnexion, profil et paramètres.
@@ -57,7 +45,7 @@ content/
     french/ german/ italian/ spanish/   Leçons, exercices, tests par langue
     games/word-master/       Mini-jeu de vocabulaire
     chatbot/                 Tuteur, traducteur, conversation et proxy Gemini
-docs/                        Présentation du projet (PDF) et captures d'écran
+docs/                        Présentation du projet (PDF)
 ```
 
 ## Installation
