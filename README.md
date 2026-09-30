@@ -45,7 +45,6 @@ content/
     french/ german/ italian/ spanish/   Leçons, exercices, tests par langue
     games/word-master/       Mini-jeu de vocabulaire
     chatbot/                 Tuteur, traducteur, conversation et proxy Gemini
-docs/                        Présentation du projet (PDF)
 ```
 
 ## Installation
