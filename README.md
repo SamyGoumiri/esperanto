@@ -82,14 +82,7 @@ Il suffit ensuite de créer un compte depuis la page d'inscription.
 
 ## Équipe
 
-Projet réalisé par l'équipe du hackathon, dont les contributeurs GitHub suivants :
-
-- [Samy Goumiri](https://github.com/SamyGoumiri)
-- [Ahmed Allali](https://github.com/ahmed1802)
-- [elaminemahmoud-lab](https://github.com/elaminemahmoud-lab)
-- [Lotfi Akachouche](https://github.com/Lotfi-Akachouche)
-- [xBillCipherx](https://github.com/xBillCipherx)
-- [Saberyns](https://github.com/Saberyns)
+Projet réalisé par une équipe de six personnes lors du hackathon.
 
 ## Licence
 

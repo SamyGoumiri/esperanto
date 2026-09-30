@@ -240,7 +240,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `username`, `first_name`, `last_name`, `email`, `password`, `profile_image`, `registration_date`, `last_login`, `remember_token`, `is_active`) VALUES
-(1, 'admin', 'Aziz', 'Boula', 'admin@esperanto.com', '$2y$10$Cerx0cFH8GZ7rDr1zEajhe3J/t9w4bqYZWtb4rEdscG/oOfK7Jb.S', 'default.png', '2025-05-02 14:48:13', '2025-05-02 14:55:19', NULL, 1);
+(1, 'admin', 'Admin', 'User', 'admin@esperanto.com', '$2y$10$Cerx0cFH8GZ7rDr1zEajhe3J/t9w4bqYZWtb4rEdscG/oOfK7Jb.S', 'default.png', '2025-05-02 14:48:13', '2025-05-02 14:55:19', NULL, 1);
 
 -- --------------------------------------------------------
 
